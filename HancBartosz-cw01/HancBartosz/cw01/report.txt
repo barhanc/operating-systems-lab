@@ -1,0 +1,3 @@
+Zadania 2. i 3. są wykonane bez przypadku biblioteki ladowanej dynamicznie z dlopen().
+Wyniki pomiarow do zad3a i zad3b znajduja się w folderach zawierajacych te zadania. Z pomiarow tych
+wynika iz biblioteka statyczna jest w ogolnosci szybsza od biblioteki dzielonej.

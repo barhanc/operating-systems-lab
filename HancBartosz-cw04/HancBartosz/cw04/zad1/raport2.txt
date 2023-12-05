@@ -1,0 +1,10 @@
+FORK
+>>> [Ignore] Sygnał jest ignorowany w procesie potomnym.
+>>> [Handler] Sygnał jest obsługiwany w procesie potomnym.
+>>> [Mask] Maska sygnałów jest taka sama w procesie potomnym.
+>>> [Pending] Sygnał oczekujący nie jest widoczny w procesie potomnym.
+
+EXECL
+>>> [Ignore] Sygnał jest ignorowany w procesie potomnym.
+>>> [Mask] Maska sygnałów jest taka sama w procesie potomnym.
+>>> [Pending] Sygnał oczekujący jest widoczny w procesie potomnym.

@@ -1,0 +1,34 @@
+>>> SA_SIGINFO test:
+
+Waiting for SIGINT signal...
+Received signal 2
+Signal code: -6
+Sending process ID: 5555
+User time: 0
+System time: 0
+Exiting...
+
+>>> SA_NODEFER test:
+
+Waiting for SIGINT signal...
+Max received signals set to: 10
+Signal 2 received. (1)
+Signal 2 received. (2)
+Signal 2 received. (3)
+Signal 2 received. (4)
+Signal 2 received. (5)
+Signal 2 received. (6)
+Signal 2 received. (7)
+Signal 2 received. (8)
+Signal 2 received. (9)
+Signal 2 received. (10)
+Exiting...
+
+>>> SA_RESETHAND test:
+
+Waiting for signal...
+Signal 10 received.
+Resetting signal handler...
+Waiting for signal...
+User defined signal 1
+

@@ -1,0 +1,23 @@
+dx = 0.01 , N = 1
+Integral value: 3.1416009869 | Time: 0.00030 s
+
+dx = 0.00001 , N = 1
+Integral value: 3.1415926536 | Time: 0.00021 s
+
+dx = 0.000001 , N = 1
+Integral value: 3.1415926536 | Time: 0.00610 s
+
+dx = 0.000001 , N = 10
+Integral value: 3.1415926536 | Time: 0.00149 s
+
+dx = 0.000001 , N = 100
+Integral value: 3.1415926536 | Time: 0.04853 s
+
+dx = 0.00000001 , N = 1
+Integral value: 3.1415926525 | Time: 0.00040 s
+
+dx = 0.00000001 , N = 10
+Integral value: 3.1415926533 | Time: 0.00170 s
+
+dx = 0.00000001 , N = 100
+Integral value: 3.1415926536 | Time: 0.03794 s

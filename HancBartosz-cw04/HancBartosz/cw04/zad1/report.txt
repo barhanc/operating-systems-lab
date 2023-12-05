@@ -1,0 +1,33 @@
+FORK
+
+>>> Ignore:
+Raise signal 4364
+Raise signal 4365
+
+>>> Handle:
+Received signal 4368
+Raise signal 4368
+Received signal 4369
+Raise signal 4369
+
+>>> Mask:
+Raise signal 4372
+
+>>> Pending:
+Raise signal 4376
+Signal pending 4376
+Signal not pending 4377
+
+EXECL
+
+>>> Ignore:
+Raise signal 4381
+Raise signal 4381
+
+>>> Mask:
+Raise signal 4384
+
+>>> Pending:
+Raise signal 4387
+Signal pending 4387
+Signal pending 4387

@@ -1,0 +1,5 @@
+(1 CHAR)
+Real: 6728718 ns
+
+(1024 CHAR)
+Real: 42125 ns

@@ -1,0 +1,54 @@
+libwc REPL >>> Real: 368022 ns
+User: 0 ticks
+Syst: 0 ticks
+
+libwc REPL >>> Real: 18517513 ns
+User: 0 ticks
+Syst: 0 ticks
+
+libwc REPL >>> Real: 13221379 ns
+User: 0 ticks
+Syst: 1 ticks
+
+libwc REPL >>> Real: 11834976 ns
+User: 1 ticks
+Syst: 0 ticks
+
+libwc REPL >>>  150  392 3835 libwc.c
+
+Real: 63168 ns
+User: 0 ticks
+Syst: 0 ticks
+
+libwc REPL >>>  33  61 650 libwc.h
+
+Real: 42398 ns
+User: 0 ticks
+Syst: 0 ticks
+
+libwc REPL >>>  247  488 5396 repl.c
+
+Real: 34399 ns
+User: 0 ticks
+Syst: 0 ticks
+
+libwc REPL >>> Real: 36239 ns
+User: 0 ticks
+Syst: 0 ticks
+
+libwc REPL >>> Real: 37701 ns
+User: 0 ticks
+Syst: 0 ticks
+
+libwc REPL >>> Real: 35834 ns
+User: 0 ticks
+Syst: 0 ticks
+
+libwc REPL >>> Real: 38660 ns
+User: 0 ticks
+Syst: 0 ticks
+
+libwc REPL >>> Real: 32224 ns
+User: 0 ticks
+Syst: 0 ticks
+
